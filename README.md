@@ -1,6 +1,6 @@
 # TUNET
 
-TUNET is a nodejs tool for logging Tsinghua University Network.
+TUNET is a nodejs tool to login and logout Tsinghua University Network (tunet).
 
 To use this do as below:
 
