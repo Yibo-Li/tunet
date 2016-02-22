@@ -1,6 +1,6 @@
 {
   "name": "tunet",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tsinghua University Network (tunet) login and logout tools",
   "main": "./lib/tunet",
   "dependencies": {
