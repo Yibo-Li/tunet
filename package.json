@@ -1,8 +1,8 @@
 {
   "name": "tunet",
   "version": "1.0.0",
-  "description": "Tsinghua University Network (tunet) login & logout tools",
-  "main": "tunet.js",
+  "description": "Tsinghua University Network (tunet) login and logout tools",
+  "main": "./lib/tunet",
   "dependencies": {
     "md5": "^2.0.0",
     "request": "^2.69.0"
@@ -12,6 +12,12 @@
     "login",
     "logout"
   ],
+  "scripts": {
+    "test": [
+      "node test/login.js",
+      "node test/logout.js"
+    ]
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Yibo-Li/tunet.git"

@@ -1,4 +1,4 @@
-var tunet = require('../lib');
+var tunet = require('../lib/tunet');
 var options = {
     name: 'user_name',
     pwd: 'user_password'

@@ -1,3 +1,3 @@
-var tunet = require('../lib');
+var tunet = require('../lib/tunet');
 
 tunet.logout();
