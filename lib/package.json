@@ -1,0 +1,21 @@
+{
+  "name": "tunet",
+  "version": "1.0.0",
+  "description": "Tsinghua University Network (tunet) login & logout tools",
+  "main": "tunet.js",
+  "dependencies": {
+    "md5": "^2.0.0",
+    "request": "^2.69.0"
+  },
+  "keywords": [
+    "tunet",
+    "login",
+    "logout"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yibo-Li/tunet.git"
+  },
+  "author": "Yibo Li <gansuliyibo@126.com> (http://blog.liyibo.org)",
+  "license": "MIT"
+}
