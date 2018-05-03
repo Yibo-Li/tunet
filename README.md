@@ -5,6 +5,9 @@ TUNET is a nodejs tool to login and logout Tsinghua University Network (tunet).
 To use this do as below:
 
 ```javascript
+// install from npm
+npm install tunet
+
 // require tunet package
 var tunet = require('tunet');
 
